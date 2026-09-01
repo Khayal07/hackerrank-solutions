@@ -1,0 +1,15 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    
+    x = a // b
+    y = a / b
+    
+    print(x)
+    print(y)
+    
+
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
